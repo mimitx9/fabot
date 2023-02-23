@@ -17,7 +17,7 @@ var (
 )
 
 func init() {
-	LoadWithStore("../../pkg/botviet/storage")
+	LoadWithStore("./storage")
 }
 
 // LoadWithStore .
